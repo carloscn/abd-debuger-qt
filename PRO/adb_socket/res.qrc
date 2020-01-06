@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>adb/adb.exe</file>
+        <file>adb/AdbWinApi.dll</file>
+        <file>adb/AdbWinUsbApi.dll</file>
+        <file>adb/fastboot.exe</file>
+        <file>qss/Dark-Y.qss</file>
+        <file>qss/Mablue.qss</file>
+        <file>qss/Main.qss</file>
+        <file>qss/qss.qrc</file>
+        <file>qss/qt-dark.qss</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>img/ima.png</file>
+        <file>img/ima2.png</file>
+    </qresource>
+</RCC>
